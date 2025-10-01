@@ -1,4 +1,4 @@
-# Tofu Dotfiles
+# Tofu Dotfiles (A better terminal experience)
 
 Setup dotfiles on Coder dev environments
 
